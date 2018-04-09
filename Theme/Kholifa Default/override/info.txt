@@ -1,0 +1,2 @@
+Here you can override any view file of Kholifa CMS or plugin. Just put it to the corresponding subdirectory.
+E.g. if you want to override content/Internal/Config/view/menu.php file, duplicate it to override/content/Internal/Config/view/menu.php and do your changes.
